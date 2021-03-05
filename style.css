@@ -8,5 +8,14 @@ body {
 
 .box1 {
     margin-bottom: 30px;
-    background-color: aqua;
+}
+
+.img {
+    width: 100px;
+    height: auto;
+}
+
+.tytul{
+    text-align: center;
+
 }
